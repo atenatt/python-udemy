@@ -1,4 +1,6 @@
 """ Aula 26 """
+""" Aula 26 """
+
 
 adicao = 10 + 10
 print('Adição', adicao)
@@ -21,8 +23,16 @@ print('Exponenciação', exponenciacao)
 modulo = 55 % 2  # resto da divisão
 print('Módulo', modulo)
 
-print(10 % 8 == 0)
-print(16 % 8 == 0)
+print((10 % 8) == 0)
+print((16 % 8) == 0)
+
+
+print()
+print(((10 % 2) == 0))
+print((10 % 2) == 0)
 print(10 % 2 == 0)
+print()
+
+
 print(15 % 2 == 0)
 print(16 % 2 == 0)
